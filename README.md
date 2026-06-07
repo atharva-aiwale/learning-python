@@ -1,2 +1,3 @@
-# learning-python
-My journey learning Python from basics.
+# Learning_Python
+![image alt]()
+My journey learning Python from the basics.
